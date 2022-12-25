@@ -7,6 +7,6 @@
 - B站：爱睡觉的达芬奇233
 - CSDN：
 
-[GitHub](https://github.com/HuangYi97)
+[GitHub](https://github.com/YiHood)
 [Get Started](https://yihood.github.io/)
 
